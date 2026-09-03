@@ -1,3 +1,4 @@
+## WORK IN PROGRESS
 # Arduino-Mini-Astronomy-Observatory
 This Arduino-based observatory system monitors environmental conditions (such as light intensity, humidity, and temperature) to determine whether external conditions are appropriate for observation. Using this criteria, the observatory controls a servo representing a physical automated observatory enclosure. The purpose is also to assess the reliability and accuracy of using cheaper, affordable sensors using scientific techniques for photometer calibration, leading to my main research question:
 
