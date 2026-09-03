@@ -1,7 +1,7 @@
 int photometer_pin = A0;
 int brightness;
 
-#include<DHT.h>
+#include <DHT.h>
 #include <Servo.h>
 
 #define DHTPIN 2     // Digital pin
